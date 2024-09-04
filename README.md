@@ -7,7 +7,7 @@ Este curso é dividido em duas partes:
 - Segunda: construção de funções, resolução de EDO e integração.
 
 
-## Documentação da Primeira Parte do Curso de Matlab:
+## **Primeira Parte do Curso de Matlab:**
 
 1. Introdução
 - Ambiente;
@@ -29,15 +29,12 @@ Este curso é dividido em duas partes:
 - Controladores de Fluxo;
 - Variável Simbólica;
 
-Arquivos da introdução do matlab.
-
+### **Arquivos**
 - Apresentação do curso (slides em pdf): [Apresentação em pdf](https://github.com/reginaldocardoso/Matlab/blob/master/Apresenta%C3%A7%C3%A3o.pdf)
-
 - Todos os códigos usados na primeira parte do curso (arquivo em pdf): [Códigos em pdf](https://github.com/reginaldocardoso/Matlab/blob/master/Codigos.pdf)
-
 - Todos os códigos usados na primeira parte do curso (arquivo em .m): [Códigos em m file](https://github.com/reginaldocardoso/Matlab/blob/master/codigos_parte_I.m)
 
-## Documentação da Segunda Parte do Curso de Matlab
+## **Segunda Parte do Curso de Matlab**
 
 Arquivos para a resolução do problema de uma suspensão.
 
