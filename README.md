@@ -2,9 +2,11 @@
 # Curso de Matlab
 Este é um curso básico de Matlab. Desenvolvido para alunos de graduação da área de engenharia.
 
+Este curso é dividido em três partes:
 
 
-## Documentação do Curso
+
+## Documentação da Primeira Parte do Curso de Matlab
 
 Apresentação do curso (slides em pdf): [Apresentação em pdf](https://github.com/reginaldocardoso/Matlab/blob/master/Apresenta%C3%A7%C3%A3o.pdf)
 
