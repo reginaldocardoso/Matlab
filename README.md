@@ -9,7 +9,7 @@ Este curso é dividido em duas partes:
 
 ## Documentação da Primeira Parte do Curso de Matlab
 
-### Introdução
+### 1- Introdução
 #### - Ambiente;
 #### - Símnbolos Especiais;
 #### - Funções Matemáticas Elementares;
