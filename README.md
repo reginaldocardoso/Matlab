@@ -9,14 +9,18 @@ Este curso é dividido em duas partes:
 
 ## Documentação da Primeira Parte do Curso de Matlab
 
+Arquivos da introdução do matlab.
+
 - Apresentação do curso (slides em pdf): [Apresentação em pdf](https://github.com/reginaldocardoso/Matlab/blob/master/Apresenta%C3%A7%C3%A3o.pdf)
 
 - Todos os códigos usados na primeira parte do curso (arquivo em pdf): [Códigos em pdf](https://github.com/reginaldocardoso/Matlab/blob/master/Codigos.pdf)
 
 - Todos os códigos usados na primeira parte do curso (arquivo em .m): [Códigos em m file](https://github.com/reginaldocardoso/Matlab/blob/master/codigos_parte_I.m)
 
-## Arquivos para a resolução do problema de uma suspensão
+## Documentação da Segunda Parte do Curso de Matlab
 
-- Suspensão Passiva: [Códigos em m file](https://github.com/reginaldocardoso/Matlab/blob/master/SUSPENSAO_PASSIVA)
+Arquivos para a resolução do problema de uma suspensão.
 
-- Suspensão Ativa: [Códigos em m file](https://github.com/reginaldocardoso/Matlab/blob/master/SUSPENSAO_ATIVA)
+- Suspensão Passiva: [Códigos Suspensão Passiva](https://github.com/reginaldocardoso/Matlab/blob/master/SUSPENSAO_PASSIVA)
+
+- Suspensão Ativa: [Códigos Suspensão Ativa](https://github.com/reginaldocardoso/Matlab/blob/master/SUSPENSAO_ATIVA)
