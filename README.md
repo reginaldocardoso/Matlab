@@ -7,20 +7,23 @@ Este curso é dividido em duas partes:
 - Segunda: construção de funções, resolução de EDO e integração.
 
 
-## Documentação da Primeira Parte do Curso de Matlab
+## Documentação da Primeira Parte do Curso de Matlab:
 
-1- Introdução
+1. Introdução
 - Ambiente;
 - Símnbolos Especiais;
 - Funções Matemáticas Elementares;
-2- Comando e Funções Básicas
+
+2. Comando e Funções Básicas
 - Declarando Variáveis;
 - Declarando Variáveis: Vetores;
 - Declarando Variáveis: Matriz;
-3- Gráficos
+  
+3. Gráficos
 - Gráficos: plot Comando;
 - Gráficos: plot Interativo;
-4- Programação no Matlab
+
+4. Programação no Matlab
 - Programação;
 - Operadores Lógicos;
 - Controladores de Fluxo;
