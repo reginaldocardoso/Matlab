@@ -10,4 +10,4 @@ Apresentação do curso (slides em pdf): [Apresentação em pdf](https://github.
 
 Todos os códigos usados na primeira parte do curso (arquivo em pdf): [Códigos em pdf](https://github.com/reginaldocardoso/Matlab/blob/master/Codigos.pdf)
 
-Todos os códigos usados na primeira parte do curso (arquivo em .m): [Documentação](https://)
+Todos os códigos usados na primeira parte do curso (arquivo em .m): [Documentação](https://github.com/reginaldocardoso/Matlab/blob/master/codigos_parte_I.m)
