@@ -10,24 +10,24 @@ Este curso é dividido em duas partes:
 ## **Primeira Parte do Curso de Matlab:**
 
 1. Introdução
-- Ambiente;
-- Símnbolos Especiais;
-- Funções Matemáticas Elementares;
+  - Ambiente;
+  - Símnbolos Especiais;
+  - Funções Matemáticas Elementares;
 
 2. Comando e Funções Básicas
-- Declarando Variáveis;
-- Declarando Variáveis: Vetores;
-- Declarando Variáveis: Matriz;
+  - Declarando Variáveis;
+  - Declarando Variáveis: Vetores;
+  - Declarando Variáveis: Matriz;
   
 3. Gráficos
-- Gráficos: plot Comando;
-- Gráficos: plot Interativo;
+  - Gráficos: plot Comando;
+  - Gráficos: plot Interativo;
 
 4. Programação no Matlab
-- Programação;
-- Operadores Lógicos;
-- Controladores de Fluxo;
-- Variável Simbólica;
+  - Programação;
+  - Operadores Lógicos;
+  - Controladores de Fluxo;
+  - Variável Simbólica;
 
 ### **Arquivos**
 - Apresentação do curso (slides em pdf): [Apresentação em pdf](https://github.com/reginaldocardoso/Matlab/blob/master/Apresenta%C3%A7%C3%A3o.pdf)
