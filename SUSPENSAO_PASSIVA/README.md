@@ -1,7 +1,7 @@
 # **Simulação de uma Suspensão Passiva**
 
- <div align="left">
-  <img src="https://github.com/reginaldocardoso/MatlabCourseAnIntroduction/blob/main/SUSPENSAO_PASSIVA/Figure/suspensao02.PNG" alt="SuspensaoPassiva" width="400"/>
+ <div align="center">
+  <img src="https://github.com/reginaldocardoso/MatlabCourseAnIntroduction/blob/master/SUSPENSAO_PASSIVA/Figure/suspensao02.png" alt="SuspensaoPassiva" width="400"/>
 </div>
 
 
