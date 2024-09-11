@@ -4,7 +4,19 @@
   <img src="https://github.com/reginaldocardoso/MatlabCourseAnIntroduction/blob/master/SUSPENSAO_ATIVA/Figure/suspensao01.png" alt="SuspensaoAtiva" width="400"/>
 </div>
 
-Explicação da imagem e do modelo
+O bloco $${\color{red}Ms}$$ representa um quarto da massa do veículo. A variável $${\color{red}Zs}$$ é o deslocamento da massa do veículo.
+
+O bloco $${\color{red}Mus}$$ representa a massa do conjunto pneu e roda.  A variável $${\color{red}Zus}$$ é o deslocamento da roda.
+
+As constantes $${\color{red}Kus}$$ e $${\color{red}Bus}$$ representam o modelo matemática do pneu, que neste caso é semelhante a uma mola com um amortecedor.
+
+A constante $${\color{red}Ks}$$ representa a mola do sistema da suspensão.
+
+A constante $${\color{red}Bs}$$ representa o amortecedor do sistema da suspensão.
+
+A variável $${\color{red}Zr}$$ é a deformação do asfalto.
+
+A variável $${\color{red}F}$$ é a força de atuação da suspensão ativa.
 
 # **ARQUIVOS**
 
