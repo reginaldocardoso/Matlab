@@ -15,8 +15,10 @@ log10(x)        %Logaritmo na base 10
 sqrt(x)         %Raiz quadrada
 factorial(x)    %Fatorial de x (x!)
 %%
+clc
+clear
 %========================= SLIDE 12 & 13 ==================================
-distância = 100     %Exemplo de variavel com acento
+% distância = 100     %Exemplo de variavel com acento
 Distancia = 20      % diferencia maisculo/minusculo (case sensitive)
 distancia = 100     % diferencia maisculo/minusculo (case sensitive)
 tempo = 3           %declando uma variavel
