@@ -36,8 +36,8 @@ D = [zeros(4,2);0,0;0,1/M_s];   %B(2,:)
 % obtem-se:
 K = [24.66 48.87 -0.47 3.68];
 %% SELECAO
-Sel_Asfalto = 1;    % Onda quadrada
-% Sel_Asfalto = 2;  % Senoidal
+% Sel_Asfalto = 1;    % Onda quadrada
+Sel_Asfalto = 2;  % Senoidal
 %=========================================================================
 Sel_Forca = 1;      % Controle K
 % Sel_Forca = 2;    % Zero

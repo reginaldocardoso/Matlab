@@ -4,12 +4,12 @@ clear all
 close all
 clc
 %% SELECAO ASFALTO
-% input_asf = 1;    % ENTRADA SENO
-input_asf = 2;    % ENTRADA QUADRADA
+input_asf = 1;    % ENTRADA SENO
+% input_asf = 2;    % ENTRADA QUADRADA
 %% SELECAO SUSPENSAO
-input_susp = 1;    % Passiva
+% input_susp = 1;    % Passiva
 % input_susp = 2;    % Ativa
-% input_susp = 3;    % Ativa + Passiva
+input_susp = 3;    % Ativa + Passiva
 %% 
 asf_t = linspace(0,20,900); % gera o tempo da entrada asfalto
 T_sim = [0 20];
